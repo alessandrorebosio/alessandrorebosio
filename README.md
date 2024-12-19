@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! I'm Alessandro Rebosio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <div align="center">
-  <p>🎓 Full-time student at the <b>University of Bologna</b>, studying <b>Computer Science and Engineering</b> <a href="https://github.com/my-university-project">my-project</a></p>
+  <p>🎓 Full-time student at the <b>University of Bologna</b>, studying <b>Computer Science and Engineering</b> </p>
 </div>
 
 <div align="center">
