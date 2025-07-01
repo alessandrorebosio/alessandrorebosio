@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrorebosio&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrorebosio&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrorebosio&hide=jupyter%20notebook&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
   </a>
 </div>
 
