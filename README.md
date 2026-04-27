@@ -6,17 +6,17 @@
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrorebosio&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrorebosio&hide=jupyter%20notebook&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrorebosio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrorebosio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <!-- <h3>🔥 Streak Stats</h3>
+  <img src="https://streak-stats.demolab.com?user=alessandrorebosio&theme=tokyonight&hide_border=true" /> -->
 </div>
 
 <div align="center">
     <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills</h2>
-    <img src="https://skillicons.dev/icons?i=c,cs,java,javascript,php,react,html,css,gradle,bash,git,docker,mysql,arduino,raspberrypi" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php,react,tailwind,html,css,gradle,bash,git,docker,nginx,mysql,arduino,raspberrypi,cloudflare" alt="Skills" />
 </div>
 
 <!--
